@@ -1,2 +1,4 @@
-#Numpy Notes
-you can use this for revising the Numpy you don't need to watch long videos
+# NumPy Notes
+
+Quick, concise notes to revise NumPy without watching long videos. Just go through the examples and refresh your concepts!
+
